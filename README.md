@@ -20,3 +20,4 @@
 
 #### :pencil: Now Studying
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![SvelteKit Badge](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
